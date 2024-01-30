@@ -1,0 +1,14 @@
+C:\Users\cauan\Documents\Estudos\C#\AutoProperties\bin\Debug\net8.0\AutoProperties.exe
+C:\Users\cauan\Documents\Estudos\C#\AutoProperties\bin\Debug\net8.0\AutoProperties.deps.json
+C:\Users\cauan\Documents\Estudos\C#\AutoProperties\bin\Debug\net8.0\AutoProperties.runtimeconfig.json
+C:\Users\cauan\Documents\Estudos\C#\AutoProperties\bin\Debug\net8.0\AutoProperties.dll
+C:\Users\cauan\Documents\Estudos\C#\AutoProperties\bin\Debug\net8.0\AutoProperties.pdb
+C:\Users\cauan\Documents\Estudos\C#\AutoProperties\obj\Debug\net8.0\AutoProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cauan\Documents\Estudos\C#\AutoProperties\obj\Debug\net8.0\AutoProperties.AssemblyInfoInputs.cache
+C:\Users\cauan\Documents\Estudos\C#\AutoProperties\obj\Debug\net8.0\AutoProperties.AssemblyInfo.cs
+C:\Users\cauan\Documents\Estudos\C#\AutoProperties\obj\Debug\net8.0\AutoProperties.csproj.CoreCompileInputs.cache
+C:\Users\cauan\Documents\Estudos\C#\AutoProperties\obj\Debug\net8.0\AutoProperties.dll
+C:\Users\cauan\Documents\Estudos\C#\AutoProperties\obj\Debug\net8.0\refint\AutoProperties.dll
+C:\Users\cauan\Documents\Estudos\C#\AutoProperties\obj\Debug\net8.0\AutoProperties.pdb
+C:\Users\cauan\Documents\Estudos\C#\AutoProperties\obj\Debug\net8.0\AutoProperties.genruntimeconfig.cache
+C:\Users\cauan\Documents\Estudos\C#\AutoProperties\obj\Debug\net8.0\ref\AutoProperties.dll

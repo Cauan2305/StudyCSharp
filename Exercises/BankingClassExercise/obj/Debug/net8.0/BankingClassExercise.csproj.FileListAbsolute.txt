@@ -1,0 +1,14 @@
+C:\Users\cauan\Documents\Estudos\C#\BankingClassExercise\bin\Debug\net8.0\BankingClassExercise.exe
+C:\Users\cauan\Documents\Estudos\C#\BankingClassExercise\bin\Debug\net8.0\BankingClassExercise.deps.json
+C:\Users\cauan\Documents\Estudos\C#\BankingClassExercise\bin\Debug\net8.0\BankingClassExercise.runtimeconfig.json
+C:\Users\cauan\Documents\Estudos\C#\BankingClassExercise\bin\Debug\net8.0\BankingClassExercise.dll
+C:\Users\cauan\Documents\Estudos\C#\BankingClassExercise\bin\Debug\net8.0\BankingClassExercise.pdb
+C:\Users\cauan\Documents\Estudos\C#\BankingClassExercise\obj\Debug\net8.0\BankingClassExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cauan\Documents\Estudos\C#\BankingClassExercise\obj\Debug\net8.0\BankingClassExercise.AssemblyInfoInputs.cache
+C:\Users\cauan\Documents\Estudos\C#\BankingClassExercise\obj\Debug\net8.0\BankingClassExercise.AssemblyInfo.cs
+C:\Users\cauan\Documents\Estudos\C#\BankingClassExercise\obj\Debug\net8.0\BankingClassExercise.csproj.CoreCompileInputs.cache
+C:\Users\cauan\Documents\Estudos\C#\BankingClassExercise\obj\Debug\net8.0\BankingClassExercise.dll
+C:\Users\cauan\Documents\Estudos\C#\BankingClassExercise\obj\Debug\net8.0\refint\BankingClassExercise.dll
+C:\Users\cauan\Documents\Estudos\C#\BankingClassExercise\obj\Debug\net8.0\BankingClassExercise.pdb
+C:\Users\cauan\Documents\Estudos\C#\BankingClassExercise\obj\Debug\net8.0\BankingClassExercise.genruntimeconfig.cache
+C:\Users\cauan\Documents\Estudos\C#\BankingClassExercise\obj\Debug\net8.0\ref\BankingClassExercise.dll
