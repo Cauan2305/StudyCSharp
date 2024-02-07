@@ -1,0 +1,15 @@
+C:\Users\cauan\Documents\Estudos\StudyCSharp\TiposReferenciaTiposDeValor\bin\Debug\net8.0\TiposReferenciaTiposDeValor.exe
+C:\Users\cauan\Documents\Estudos\StudyCSharp\TiposReferenciaTiposDeValor\bin\Debug\net8.0\TiposReferenciaTiposDeValor.deps.json
+C:\Users\cauan\Documents\Estudos\StudyCSharp\TiposReferenciaTiposDeValor\bin\Debug\net8.0\TiposReferenciaTiposDeValor.runtimeconfig.json
+C:\Users\cauan\Documents\Estudos\StudyCSharp\TiposReferenciaTiposDeValor\bin\Debug\net8.0\TiposReferenciaTiposDeValor.dll
+C:\Users\cauan\Documents\Estudos\StudyCSharp\TiposReferenciaTiposDeValor\bin\Debug\net8.0\TiposReferenciaTiposDeValor.pdb
+C:\Users\cauan\Documents\Estudos\StudyCSharp\TiposReferenciaTiposDeValor\obj\Debug\net8.0\TiposReferenciaTiposDeValor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cauan\Documents\Estudos\StudyCSharp\TiposReferenciaTiposDeValor\obj\Debug\net8.0\TiposReferenciaTiposDeValor.AssemblyInfoInputs.cache
+C:\Users\cauan\Documents\Estudos\StudyCSharp\TiposReferenciaTiposDeValor\obj\Debug\net8.0\TiposReferenciaTiposDeValor.AssemblyInfo.cs
+C:\Users\cauan\Documents\Estudos\StudyCSharp\TiposReferenciaTiposDeValor\obj\Debug\net8.0\TiposReferenciaTiposDeValor.csproj.CoreCompileInputs.cache
+C:\Users\cauan\Documents\Estudos\StudyCSharp\TiposReferenciaTiposDeValor\obj\Debug\net8.0\TiposReferenciaTiposDeValor.sourcelink.json
+C:\Users\cauan\Documents\Estudos\StudyCSharp\TiposReferenciaTiposDeValor\obj\Debug\net8.0\TiposReferenciaTiposDeValor.dll
+C:\Users\cauan\Documents\Estudos\StudyCSharp\TiposReferenciaTiposDeValor\obj\Debug\net8.0\refint\TiposReferenciaTiposDeValor.dll
+C:\Users\cauan\Documents\Estudos\StudyCSharp\TiposReferenciaTiposDeValor\obj\Debug\net8.0\TiposReferenciaTiposDeValor.pdb
+C:\Users\cauan\Documents\Estudos\StudyCSharp\TiposReferenciaTiposDeValor\obj\Debug\net8.0\TiposReferenciaTiposDeValor.genruntimeconfig.cache
+C:\Users\cauan\Documents\Estudos\StudyCSharp\TiposReferenciaTiposDeValor\obj\Debug\net8.0\ref\TiposReferenciaTiposDeValor.dll
