@@ -1,0 +1,15 @@
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\PostsComents\bin\Debug\net8.0\PostsComents.exe
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\PostsComents\bin\Debug\net8.0\PostsComents.deps.json
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\PostsComents\bin\Debug\net8.0\PostsComents.runtimeconfig.json
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\PostsComents\bin\Debug\net8.0\PostsComents.dll
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\PostsComents\bin\Debug\net8.0\PostsComents.pdb
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\PostsComents\obj\Debug\net8.0\PostsComents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\PostsComents\obj\Debug\net8.0\PostsComents.AssemblyInfoInputs.cache
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\PostsComents\obj\Debug\net8.0\PostsComents.AssemblyInfo.cs
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\PostsComents\obj\Debug\net8.0\PostsComents.csproj.CoreCompileInputs.cache
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\PostsComents\obj\Debug\net8.0\PostsComents.sourcelink.json
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\PostsComents\obj\Debug\net8.0\PostsComents.dll
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\PostsComents\obj\Debug\net8.0\refint\PostsComents.dll
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\PostsComents\obj\Debug\net8.0\PostsComents.pdb
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\PostsComents\obj\Debug\net8.0\PostsComents.genruntimeconfig.cache
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\PostsComents\obj\Debug\net8.0\ref\PostsComents.dll

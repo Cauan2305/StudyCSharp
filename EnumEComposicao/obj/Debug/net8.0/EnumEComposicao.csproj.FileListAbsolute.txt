@@ -1,0 +1,15 @@
+C:\Users\cauan\Documents\Estudos\StudyCSharp\EnumEComposicao\bin\Debug\net8.0\EnumEComposicao.exe
+C:\Users\cauan\Documents\Estudos\StudyCSharp\EnumEComposicao\bin\Debug\net8.0\EnumEComposicao.deps.json
+C:\Users\cauan\Documents\Estudos\StudyCSharp\EnumEComposicao\bin\Debug\net8.0\EnumEComposicao.runtimeconfig.json
+C:\Users\cauan\Documents\Estudos\StudyCSharp\EnumEComposicao\bin\Debug\net8.0\EnumEComposicao.dll
+C:\Users\cauan\Documents\Estudos\StudyCSharp\EnumEComposicao\bin\Debug\net8.0\EnumEComposicao.pdb
+C:\Users\cauan\Documents\Estudos\StudyCSharp\EnumEComposicao\obj\Debug\net8.0\EnumEComposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cauan\Documents\Estudos\StudyCSharp\EnumEComposicao\obj\Debug\net8.0\EnumEComposicao.AssemblyInfoInputs.cache
+C:\Users\cauan\Documents\Estudos\StudyCSharp\EnumEComposicao\obj\Debug\net8.0\EnumEComposicao.AssemblyInfo.cs
+C:\Users\cauan\Documents\Estudos\StudyCSharp\EnumEComposicao\obj\Debug\net8.0\EnumEComposicao.csproj.CoreCompileInputs.cache
+C:\Users\cauan\Documents\Estudos\StudyCSharp\EnumEComposicao\obj\Debug\net8.0\EnumEComposicao.sourcelink.json
+C:\Users\cauan\Documents\Estudos\StudyCSharp\EnumEComposicao\obj\Debug\net8.0\EnumEComposicao.dll
+C:\Users\cauan\Documents\Estudos\StudyCSharp\EnumEComposicao\obj\Debug\net8.0\refint\EnumEComposicao.dll
+C:\Users\cauan\Documents\Estudos\StudyCSharp\EnumEComposicao\obj\Debug\net8.0\EnumEComposicao.pdb
+C:\Users\cauan\Documents\Estudos\StudyCSharp\EnumEComposicao\obj\Debug\net8.0\EnumEComposicao.genruntimeconfig.cache
+C:\Users\cauan\Documents\Estudos\StudyCSharp\EnumEComposicao\obj\Debug\net8.0\ref\EnumEComposicao.dll

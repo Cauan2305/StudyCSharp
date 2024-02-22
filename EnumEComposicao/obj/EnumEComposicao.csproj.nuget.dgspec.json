@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cauan\\Documents\\Estudos\\StudyCSharp\\Exercises\\BankingClassExercise\\BankingClassExercise.csproj": {}
+    "C:\\Users\\cauan\\Documents\\Estudos\\StudyCSharp\\EnumEComposicao\\EnumEComposicao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cauan\\Documents\\Estudos\\StudyCSharp\\Exercises\\BankingClassExercise\\BankingClassExercise.csproj": {
+    "C:\\Users\\cauan\\Documents\\Estudos\\StudyCSharp\\EnumEComposicao\\EnumEComposicao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cauan\\Documents\\Estudos\\StudyCSharp\\Exercises\\BankingClassExercise\\BankingClassExercise.csproj",
-        "projectName": "BankingClassExercise",
-        "projectPath": "C:\\Users\\cauan\\Documents\\Estudos\\StudyCSharp\\Exercises\\BankingClassExercise\\BankingClassExercise.csproj",
+        "projectUniqueName": "C:\\Users\\cauan\\Documents\\Estudos\\StudyCSharp\\EnumEComposicao\\EnumEComposicao.csproj",
+        "projectName": "EnumEComposicao",
+        "projectPath": "C:\\Users\\cauan\\Documents\\Estudos\\StudyCSharp\\EnumEComposicao\\EnumEComposicao.csproj",
         "packagesPath": "C:\\Users\\cauan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cauan\\Documents\\Estudos\\StudyCSharp\\Exercises\\BankingClassExercise\\obj\\",
+        "outputPath": "C:\\Users\\cauan\\Documents\\Estudos\\StudyCSharp\\EnumEComposicao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cauan\\AppData\\Roaming\\NuGet\\NuGet.Config"
