@@ -1,0 +1,15 @@
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\Ecomerce\bin\Debug\net8.0\Ecomerce.exe
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\Ecomerce\bin\Debug\net8.0\Ecomerce.deps.json
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\Ecomerce\bin\Debug\net8.0\Ecomerce.runtimeconfig.json
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\Ecomerce\bin\Debug\net8.0\Ecomerce.dll
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\Ecomerce\bin\Debug\net8.0\Ecomerce.pdb
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\Ecomerce\obj\Debug\net8.0\Ecomerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\Ecomerce\obj\Debug\net8.0\Ecomerce.AssemblyInfoInputs.cache
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\Ecomerce\obj\Debug\net8.0\Ecomerce.AssemblyInfo.cs
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\Ecomerce\obj\Debug\net8.0\Ecomerce.csproj.CoreCompileInputs.cache
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\Ecomerce\obj\Debug\net8.0\Ecomerce.sourcelink.json
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\Ecomerce\obj\Debug\net8.0\Ecomerce.dll
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\Ecomerce\obj\Debug\net8.0\refint\Ecomerce.dll
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\Ecomerce\obj\Debug\net8.0\Ecomerce.pdb
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\Ecomerce\obj\Debug\net8.0\Ecomerce.genruntimeconfig.cache
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\Ecomerce\obj\Debug\net8.0\ref\Ecomerce.dll
