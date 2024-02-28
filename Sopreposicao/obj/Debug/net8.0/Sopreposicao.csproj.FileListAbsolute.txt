@@ -1,0 +1,15 @@
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Sopreposicao\bin\Debug\net8.0\Sopreposicao.exe
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Sopreposicao\bin\Debug\net8.0\Sopreposicao.deps.json
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Sopreposicao\bin\Debug\net8.0\Sopreposicao.runtimeconfig.json
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Sopreposicao\bin\Debug\net8.0\Sopreposicao.dll
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Sopreposicao\bin\Debug\net8.0\Sopreposicao.pdb
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Sopreposicao\obj\Debug\net8.0\Sopreposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Sopreposicao\obj\Debug\net8.0\Sopreposicao.AssemblyInfoInputs.cache
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Sopreposicao\obj\Debug\net8.0\Sopreposicao.AssemblyInfo.cs
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Sopreposicao\obj\Debug\net8.0\Sopreposicao.csproj.CoreCompileInputs.cache
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Sopreposicao\obj\Debug\net8.0\Sopreposicao.sourcelink.json
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Sopreposicao\obj\Debug\net8.0\Sopreposicao.dll
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Sopreposicao\obj\Debug\net8.0\refint\Sopreposicao.dll
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Sopreposicao\obj\Debug\net8.0\Sopreposicao.pdb
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Sopreposicao\obj\Debug\net8.0\Sopreposicao.genruntimeconfig.cache
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Sopreposicao\obj\Debug\net8.0\ref\Sopreposicao.dll
