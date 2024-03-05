@@ -1,0 +1,15 @@
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\EmployeeCalculatorSalary\bin\Debug\net8.0\EmployeeCalculatorSalary.exe
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\EmployeeCalculatorSalary\bin\Debug\net8.0\EmployeeCalculatorSalary.deps.json
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\EmployeeCalculatorSalary\bin\Debug\net8.0\EmployeeCalculatorSalary.runtimeconfig.json
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\EmployeeCalculatorSalary\bin\Debug\net8.0\EmployeeCalculatorSalary.dll
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\EmployeeCalculatorSalary\bin\Debug\net8.0\EmployeeCalculatorSalary.pdb
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\EmployeeCalculatorSalary\obj\Debug\net8.0\EmployeeCalculatorSalary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\EmployeeCalculatorSalary\obj\Debug\net8.0\EmployeeCalculatorSalary.AssemblyInfoInputs.cache
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\EmployeeCalculatorSalary\obj\Debug\net8.0\EmployeeCalculatorSalary.AssemblyInfo.cs
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\EmployeeCalculatorSalary\obj\Debug\net8.0\EmployeeCalculatorSalary.csproj.CoreCompileInputs.cache
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\EmployeeCalculatorSalary\obj\Debug\net8.0\EmployeeCalculatorSalary.sourcelink.json
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\EmployeeCalculatorSalary\obj\Debug\net8.0\EmployeeCalculatorSalary.dll
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\EmployeeCalculatorSalary\obj\Debug\net8.0\refint\EmployeeCalculatorSalary.dll
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\EmployeeCalculatorSalary\obj\Debug\net8.0\EmployeeCalculatorSalary.pdb
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\EmployeeCalculatorSalary\obj\Debug\net8.0\EmployeeCalculatorSalary.genruntimeconfig.cache
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\EmployeeCalculatorSalary\obj\Debug\net8.0\ref\EmployeeCalculatorSalary.dll
