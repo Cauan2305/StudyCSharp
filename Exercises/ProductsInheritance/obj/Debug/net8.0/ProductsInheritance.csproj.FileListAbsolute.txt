@@ -1,0 +1,15 @@
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\ProductsInheritance\bin\Debug\net8.0\ProductsInheritance.exe
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\ProductsInheritance\bin\Debug\net8.0\ProductsInheritance.deps.json
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\ProductsInheritance\bin\Debug\net8.0\ProductsInheritance.runtimeconfig.json
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\ProductsInheritance\bin\Debug\net8.0\ProductsInheritance.dll
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\ProductsInheritance\bin\Debug\net8.0\ProductsInheritance.pdb
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\ProductsInheritance\obj\Debug\net8.0\ProductsInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\ProductsInheritance\obj\Debug\net8.0\ProductsInheritance.AssemblyInfoInputs.cache
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\ProductsInheritance\obj\Debug\net8.0\ProductsInheritance.AssemblyInfo.cs
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\ProductsInheritance\obj\Debug\net8.0\ProductsInheritance.csproj.CoreCompileInputs.cache
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\ProductsInheritance\obj\Debug\net8.0\ProductsInheritance.sourcelink.json
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\ProductsInheritance\obj\Debug\net8.0\ProductsInheritance.dll
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\ProductsInheritance\obj\Debug\net8.0\refint\ProductsInheritance.dll
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\ProductsInheritance\obj\Debug\net8.0\ProductsInheritance.pdb
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\ProductsInheritance\obj\Debug\net8.0\ProductsInheritance.genruntimeconfig.cache
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\ProductsInheritance\obj\Debug\net8.0\ref\ProductsInheritance.dll
