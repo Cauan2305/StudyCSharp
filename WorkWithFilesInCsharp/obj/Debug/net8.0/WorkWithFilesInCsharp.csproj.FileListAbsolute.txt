@@ -1,0 +1,15 @@
+C:\Users\cauan\Documents\Estudos\StudyCSharp\WorkWithFilesInCsharp\bin\Debug\net8.0\WorkWithFilesInCsharp.exe
+C:\Users\cauan\Documents\Estudos\StudyCSharp\WorkWithFilesInCsharp\bin\Debug\net8.0\WorkWithFilesInCsharp.deps.json
+C:\Users\cauan\Documents\Estudos\StudyCSharp\WorkWithFilesInCsharp\bin\Debug\net8.0\WorkWithFilesInCsharp.runtimeconfig.json
+C:\Users\cauan\Documents\Estudos\StudyCSharp\WorkWithFilesInCsharp\bin\Debug\net8.0\WorkWithFilesInCsharp.dll
+C:\Users\cauan\Documents\Estudos\StudyCSharp\WorkWithFilesInCsharp\bin\Debug\net8.0\WorkWithFilesInCsharp.pdb
+C:\Users\cauan\Documents\Estudos\StudyCSharp\WorkWithFilesInCsharp\obj\Debug\net8.0\WorkWithFilesInCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cauan\Documents\Estudos\StudyCSharp\WorkWithFilesInCsharp\obj\Debug\net8.0\WorkWithFilesInCsharp.AssemblyInfoInputs.cache
+C:\Users\cauan\Documents\Estudos\StudyCSharp\WorkWithFilesInCsharp\obj\Debug\net8.0\WorkWithFilesInCsharp.AssemblyInfo.cs
+C:\Users\cauan\Documents\Estudos\StudyCSharp\WorkWithFilesInCsharp\obj\Debug\net8.0\WorkWithFilesInCsharp.csproj.CoreCompileInputs.cache
+C:\Users\cauan\Documents\Estudos\StudyCSharp\WorkWithFilesInCsharp\obj\Debug\net8.0\WorkWithFilesInCsharp.sourcelink.json
+C:\Users\cauan\Documents\Estudos\StudyCSharp\WorkWithFilesInCsharp\obj\Debug\net8.0\WorkWithFilesInCsharp.dll
+C:\Users\cauan\Documents\Estudos\StudyCSharp\WorkWithFilesInCsharp\obj\Debug\net8.0\refint\WorkWithFilesInCsharp.dll
+C:\Users\cauan\Documents\Estudos\StudyCSharp\WorkWithFilesInCsharp\obj\Debug\net8.0\WorkWithFilesInCsharp.pdb
+C:\Users\cauan\Documents\Estudos\StudyCSharp\WorkWithFilesInCsharp\obj\Debug\net8.0\WorkWithFilesInCsharp.genruntimeconfig.cache
+C:\Users\cauan\Documents\Estudos\StudyCSharp\WorkWithFilesInCsharp\obj\Debug\net8.0\ref\WorkWithFilesInCsharp.dll

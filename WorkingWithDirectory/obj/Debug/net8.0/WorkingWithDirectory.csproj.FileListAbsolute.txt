@@ -1,0 +1,15 @@
+C:\Users\cauan\Documents\Estudos\StudyCSharp\WorkingWithDirectory\bin\Debug\net8.0\WorkingWithDirectory.exe
+C:\Users\cauan\Documents\Estudos\StudyCSharp\WorkingWithDirectory\bin\Debug\net8.0\WorkingWithDirectory.deps.json
+C:\Users\cauan\Documents\Estudos\StudyCSharp\WorkingWithDirectory\bin\Debug\net8.0\WorkingWithDirectory.runtimeconfig.json
+C:\Users\cauan\Documents\Estudos\StudyCSharp\WorkingWithDirectory\bin\Debug\net8.0\WorkingWithDirectory.dll
+C:\Users\cauan\Documents\Estudos\StudyCSharp\WorkingWithDirectory\bin\Debug\net8.0\WorkingWithDirectory.pdb
+C:\Users\cauan\Documents\Estudos\StudyCSharp\WorkingWithDirectory\obj\Debug\net8.0\WorkingWithDirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cauan\Documents\Estudos\StudyCSharp\WorkingWithDirectory\obj\Debug\net8.0\WorkingWithDirectory.AssemblyInfoInputs.cache
+C:\Users\cauan\Documents\Estudos\StudyCSharp\WorkingWithDirectory\obj\Debug\net8.0\WorkingWithDirectory.AssemblyInfo.cs
+C:\Users\cauan\Documents\Estudos\StudyCSharp\WorkingWithDirectory\obj\Debug\net8.0\WorkingWithDirectory.csproj.CoreCompileInputs.cache
+C:\Users\cauan\Documents\Estudos\StudyCSharp\WorkingWithDirectory\obj\Debug\net8.0\WorkingWithDirectory.sourcelink.json
+C:\Users\cauan\Documents\Estudos\StudyCSharp\WorkingWithDirectory\obj\Debug\net8.0\WorkingWithDirectory.dll
+C:\Users\cauan\Documents\Estudos\StudyCSharp\WorkingWithDirectory\obj\Debug\net8.0\refint\WorkingWithDirectory.dll
+C:\Users\cauan\Documents\Estudos\StudyCSharp\WorkingWithDirectory\obj\Debug\net8.0\WorkingWithDirectory.pdb
+C:\Users\cauan\Documents\Estudos\StudyCSharp\WorkingWithDirectory\obj\Debug\net8.0\WorkingWithDirectory.genruntimeconfig.cache
+C:\Users\cauan\Documents\Estudos\StudyCSharp\WorkingWithDirectory\obj\Debug\net8.0\ref\WorkingWithDirectory.dll
