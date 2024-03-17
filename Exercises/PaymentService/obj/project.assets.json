@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cauan\\Documents\\Estudos\\StudyCSharp\\InterfaceCsharp\\InterfaceCsharp.csproj",
-      "projectName": "InterfaceCsharp",
-      "projectPath": "C:\\Users\\cauan\\Documents\\Estudos\\StudyCSharp\\InterfaceCsharp\\InterfaceCsharp.csproj",
+      "projectUniqueName": "C:\\Users\\cauan\\Documents\\Estudos\\StudyCSharp\\Exercises\\PaymentService\\PaymentService.csproj",
+      "projectName": "PaymentService",
+      "projectPath": "C:\\Users\\cauan\\Documents\\Estudos\\StudyCSharp\\Exercises\\PaymentService\\PaymentService.csproj",
       "packagesPath": "C:\\Users\\cauan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cauan\\Documents\\Estudos\\StudyCSharp\\InterfaceCsharp\\obj\\",
+      "outputPath": "C:\\Users\\cauan\\Documents\\Estudos\\StudyCSharp\\Exercises\\PaymentService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cauan\\AppData\\Roaming\\NuGet\\NuGet.Config"

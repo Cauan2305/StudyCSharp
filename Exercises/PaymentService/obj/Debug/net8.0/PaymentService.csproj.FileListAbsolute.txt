@@ -1,0 +1,15 @@
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\PaymentService\bin\Debug\net8.0\PaymentService.exe
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\PaymentService\bin\Debug\net8.0\PaymentService.deps.json
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\PaymentService\bin\Debug\net8.0\PaymentService.runtimeconfig.json
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\PaymentService\bin\Debug\net8.0\PaymentService.dll
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\PaymentService\bin\Debug\net8.0\PaymentService.pdb
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\PaymentService\obj\Debug\net8.0\PaymentService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\PaymentService\obj\Debug\net8.0\PaymentService.AssemblyInfoInputs.cache
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\PaymentService\obj\Debug\net8.0\PaymentService.AssemblyInfo.cs
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\PaymentService\obj\Debug\net8.0\PaymentService.csproj.CoreCompileInputs.cache
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\PaymentService\obj\Debug\net8.0\PaymentService.sourcelink.json
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\PaymentService\obj\Debug\net8.0\PaymentService.dll
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\PaymentService\obj\Debug\net8.0\refint\PaymentService.dll
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\PaymentService\obj\Debug\net8.0\PaymentService.pdb
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\PaymentService\obj\Debug\net8.0\PaymentService.genruntimeconfig.cache
+C:\Users\cauan\Documents\Estudos\StudyCSharp\Exercises\PaymentService\obj\Debug\net8.0\ref\PaymentService.dll

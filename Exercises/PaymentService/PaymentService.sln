@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceCsharp", "InterfaceCsharp.csproj", "{62B4637C-99EB-49DF-9899-EC4C0D508072}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaymentService", "PaymentService.csproj", "{7A94F97F-DFA2-4B75-82B1-A1DB52801B59}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{62B4637C-99EB-49DF-9899-EC4C0D508072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{62B4637C-99EB-49DF-9899-EC4C0D508072}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{62B4637C-99EB-49DF-9899-EC4C0D508072}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{62B4637C-99EB-49DF-9899-EC4C0D508072}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A94F97F-DFA2-4B75-82B1-A1DB52801B59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A94F97F-DFA2-4B75-82B1-A1DB52801B59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A94F97F-DFA2-4B75-82B1-A1DB52801B59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A94F97F-DFA2-4B75-82B1-A1DB52801B59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D1703D44-123E-466B-9544-300727FF054C}
+		SolutionGuid = {25DDAAEA-E7BC-4B62-B2F0-96A7D2993BA0}
 	EndGlobalSection
 EndGlobal
